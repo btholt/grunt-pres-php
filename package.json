@@ -1,0 +1,19 @@
+{
+  "name": "grunt-pres-php",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.2"
+  },
+  "devDependencies": {
+    "grunt-contrib-less": "~0.8.3",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-phplint": "0.0.5",
+    "grunt-phpunit": "~0.3.2"
+  },
+  "private": true,
+  "repository": "",
+  "author": "",
+  "license": "MIT"
+}
